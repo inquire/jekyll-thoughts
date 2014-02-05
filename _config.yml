@@ -1,0 +1,7 @@
+name: Twenfour
+markdown: redcarpet
+pygments: true
+
+permalink: date
+paginate_path: 'page:num'
+
